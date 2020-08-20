@@ -15,7 +15,7 @@
 **Talking about me,:**
 
 - 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/);
-- 🤔 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
+- 😊 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
 - 👨🏽‍💻 I work on AdobeXD, React, React Native, Node and MongoDB.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Email via kiranFullStack@outlook.com to reach me;
@@ -23,7 +23,7 @@
 <br/> 
 </em>
 
-### Worked with 
+### ⭐️ Skilled in
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>

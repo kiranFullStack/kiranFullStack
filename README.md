@@ -12,7 +12,7 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
+**Talking about me,:**
 
 - 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/);
 - 🤔 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
@@ -38,7 +38,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 
 
-### GitHub Stats
+### ⭐️ Top grade Programmer A++
 
 <p align="center">
   <a href = "https://github.com/kiranFullStack">

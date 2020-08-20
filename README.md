@@ -12,7 +12,6 @@
 
 <em>
   
-**Talking about me,:**
 
 - 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/);
 - 😊 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.

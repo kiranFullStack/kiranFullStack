@@ -57,9 +57,12 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kiran%20R-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranfullstack/)](https://www.linkedin.com/in/kishan0725/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kiran%20R-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranfullstack/)](https://www.linkedin.com/in/kiranFullStack/) 
 [![GitHub Badge](https://img.shields.io/badge/-@KiranR-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/kiranfullstack) 
-[![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kishan0725@gmail.com)](mailto:kishan0725@gmail.com)
+[![Gmail Badge][(https://img.shields.io/badge/-Kiran%20R-E94C89?style=flat-circle&logo=Dribbble&logoColor=white&link=https://www.linkedin.com/in/kiranfullstack/)](https://www.linkedin.com/in/kiranFullStack/)
+
+
+[![Gmail Badge]
 
 ### Top repositories
 

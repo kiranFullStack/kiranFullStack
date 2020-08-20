@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 I’m currently a Full Stack Web Developer intern at [Target Corp.](https://www.target.com/);
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
+- 🤔 My interests are with Web App Development 🖥️, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kiranFullStack@outlook.com to reach me;

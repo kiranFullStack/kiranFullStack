@@ -16,9 +16,7 @@
 - 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/);
 - 😊 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
 - 👨🏽‍💻 I work on AdobeXD, React, React Native, Node and MongoDB.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Email via kiranFullStack@outlook.com to reach me;
-- 🤝 Send me an Invite on [LinkedIn](https://www.linkedin.com/in/kiranfullstack);
+- 🤝 Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack);
 <br/> 
 </em>
 

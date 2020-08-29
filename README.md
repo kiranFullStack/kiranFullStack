@@ -13,10 +13,10 @@
 <em>
   
 
-- 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/);
+- 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/).
 - 😊 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
-- 👨🏽‍💻 I work on React, React Native, Node, MongoDB and AdobeXD, .
-- 🤝 Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack);
+- 👨🏽‍💻 I work on React, React Native, Node, MongoDB and AdobeXD.
+- 🤝 Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 </em>
 
@@ -35,7 +35,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 
 
-###  React, Node, Express, MongoDB, AWS, UI and UX Design
+###  React, Node, Express, MongoDB, AWS, Docker, UI and UX Design
 <br/>
 <br/>
 <br/>

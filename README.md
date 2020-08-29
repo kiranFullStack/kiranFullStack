@@ -13,10 +13,10 @@
 <em>
   
 
-- 👨🏽‍💻 I’m currently a Developer at [Target Corp.](https://www.target.com/).
-- 😊 I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
-- 👨🏽‍💻 I work on React, React Native, Node, MongoDB and AdobeXD.
-- 🤝 Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
+-  I’m currently a Developer at [Target Corp.](https://www.target.com/).
+-  I am into Web Development 🖥️, App Development 📱 and UI UX Design 🎨.
+-  I work on React, React Native, Node, MongoDB and AdobeXD.
+-  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 </em>
 

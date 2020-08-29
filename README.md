@@ -19,7 +19,7 @@
 <br/> 
 
 ### Want to hire me ?
--  Checkout my website, Download my resume and call me [Website](https://kiranfullstack.com).
+-  Checkout my website, Download my resume and call me - [My Website](https://kiranfullstack.com).
 <br/> 
 </em>
 

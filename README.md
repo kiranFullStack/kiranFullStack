@@ -18,8 +18,8 @@
 -  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 
-### Want to hire me ?
--  Checkout my website, Download my resume and call me - [My Website](https://kiranfullstack.com).
+### Want to hire me ? [Download my resume and call me](https://kiranfullstack.com)
+
 <br/> 
 </em>
 

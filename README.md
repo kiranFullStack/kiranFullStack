@@ -14,7 +14,7 @@
   
 
 -  I’m currently a Full Stack Developer at [Target Corp.](https://www.target.com/).
--  I work on React, React Native, Node, Express, MongoDB and AdobeXD.
+-  I work on React, React Native, Redux, Node, Express, MongoDB, AdobeXD, Docker, Kubernetes and AWS.
 -  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 

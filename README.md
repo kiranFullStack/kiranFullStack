@@ -2,6 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranFullStack&style=flat-square)
 
+<img src="https://raw.githubusercontent.com/kiranFullStack/kiranFullStack/master/banner.png" alt="Hello world">
+
+
 <p>
   <em>
     A <b>Full Stack Developer</b> and a <b>UI UX Designer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.

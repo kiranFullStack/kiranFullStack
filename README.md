@@ -21,8 +21,9 @@
 -  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 
-### Want to hire me ? [Download my resume and call me](https://kiranfullstack.com)
-### Call me - [8722978015]
+### Want to hire me ??? [Download my resume and call me](https://kiranfullstack.com)
+
+### Call me to check my availability for an interview - 8722978015
 
 <br/> 
 </em>

@@ -23,7 +23,7 @@
 
 ### Want to hire me ??? [Download my resume and call me](https://kiranfullstack.com)
 
-### Call me +91-8722978015
+### Ph no. +91-8722978015
 
 <br/> 
 </em>

@@ -1,4 +1,4 @@
-### Hi there, I'm [Kiran](https://kiranfullstack.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kiranFullStack?style=social)
+### Hi there, I'm [Kiran], a MERN Developer(https://kiranfullstack.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kiranFullStack?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranFullStack&style=flat-square)
 
@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    A <b>Full Stack Developer</b> and a <b>UI UX Designer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+    A <b>Full Stack MERN Developer</b> and a <b>UI UX Designer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
   </em>
  </p>
 
@@ -17,14 +17,15 @@
   
 
 -  I’m currently a Full Stack Developer at [Target Corp.](https://www.target.com/).
--  I work on React, React Native, Redux, Node, Express, MongoDB, AdobeXD, Docker, Kubernetes and AWS.
+-  I work on React, Next JS, React Native, Redux, Node, Express, MongoDB, AdobeXD, Docker, Kubernetes and AWS Lamda ( Microservices ).
 -  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
 <br/> 
 
 ### Want to hire me ? 🧑🏽‍💻
-[Download my resume and call me](https://kiranfullstack.com)
+### [Download my resume and call me](https://kiranfullstack.com)
 
-### Ph no. +91-8722978015
+## Ph no. +91-8722978015
+## Email. kiran.fullstack@outlook.com
 
 <br/> 
 </em>

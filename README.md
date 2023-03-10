@@ -46,9 +46,6 @@
 
 
 ###  React, Node, Express, MongoDB, AWS, Docker, UI and UX Design
-<br/>
-<br/>
-<br/>
 
 
 
@@ -58,8 +55,6 @@
 [![Kiran's Github States](https://github-readme-stats.vercel.app/api?username=kiranFullStack&show_icons=true&theme=dracula)](https://github.com/kiranFullStack/github-readme-stats)
 
 
-<br/>
-<br/>
 
 ### Follow me
 

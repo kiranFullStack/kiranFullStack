@@ -55,24 +55,9 @@
 ### ⭐️⭐️⭐️⭐️⭐️ 
 ### Top grade Programmer
 
-<p align="center">
-  <a href = "https://github.com/kiranFullStack">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kiranFullStack&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- <br/>
-<br/>
-<br/>
- 
-### Top Languages
+[![Kiran's Github States](https://github-readme-stats.vercel.app/api?username=kiranFullStack&show_icons=true&theme=dracula)](https://github.com/kiranFullStack/github-readme-stats)
 
-<p align="center">
-<a href = "https://github.com/kiranFullStack">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kiranFullStack&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
 
- <br/>
 <br/>
 <br/>
 

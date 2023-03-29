@@ -22,7 +22,7 @@
 <br/> 
 
 ### Want to hire me ? 🧑🏽‍💻
-### [Download my resume and call me](https://kiranfullstack.com/images/Kiran_FullStack.pdf){:target="_blank"}
+### [Download my resume and call me](https://kiranfullstack.com/images/Kiran_FullStack.pdf)
 
 ## Ph no. +91-8722978015
 ## Email. kiran.fullstack@outlook.com

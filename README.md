@@ -49,13 +49,6 @@
 
 
 
-### ⭐️⭐️⭐️⭐️⭐️ 
-### Top grade Programmer
-
-[![Kiran's Github States](https://github-readme-stats.vercel.app/api?username=kiranFullStack&show_icons=true&theme=dracula)](https://github.com/kiranFullStack/github-readme-stats)
-
-
-
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kiran%20R-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranfullstack/)](https://www.linkedin.com/in/kiranFullStack/) 
